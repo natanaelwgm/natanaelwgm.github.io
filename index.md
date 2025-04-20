@@ -17,5 +17,11 @@ Passionate about leveraging technology for economic progress, I thrive at the in
 
 **Find out more:**
 
-* **CV:** [Download my CV](#) * **LinkedIn:** [linkedin.com/in/natanael-waraney-gerald-massie-b9254a13b](https://www.linkedin.com/in/natanael-waraney-gerald-massie-b9254a13b/)
-* **ORCID:** [orcid.org/your-orcid-id](#) * **Personal Website/Portfolio:** [yourwebsite.com](#) * **GitHub:** [github.com/yourusername](#) * **Email:** [your.email@example.com](#) ---
+* **CV:** [Download my CV](#) 
+* **LinkedIn:** [linkedin.com/in/natanael-waraney-gerald-massie-b9254a13b](https://www.linkedin.com/in/natanael-waraney-gerald-massie-b9254a13b/)
+* **ORCID:** [orcid.org/your-orcid-id](#) 
+* **Personal Website/Portfolio:** [natanaelwgm.github.io](#) 
+* **GitHub:** [github.com/natanaelwgm](#) 
+* **Email:** [natanaelmassie2009@gmail.com](#) (personal); [natanael.waraney@ui.ac.id](#) (academic) 
+
+---
