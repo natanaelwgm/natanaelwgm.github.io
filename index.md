@@ -1,11 +1,9 @@
 ---
 layout: default # Or your preferred Jekyll layout
-title: Natanael Waraney Gerald Massie - Economist & Data Scientist
+title: Natanael Waraney Gerald Massie
 ---
 
 # Natanael Waraney Gerald Massie
-
-[Online Status: Online]
 
 ---
 
