@@ -1,0 +1,29 @@
+title: Natanael Waraney Gerald Massie
+description: Economist at Prospera | Development Economics | Industrial Policy | Data Science
+url: "https://natanaelwgm.github.io"
+baseurl: ""
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social links
+twitter_username: 
+github_username:  natanaelwgm
+linkedin_username: natanael-waraney-gerald-massie-b9254a13b
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Analytics
+google_analytics: # your Google Analytics tracking ID
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
